@@ -6,22 +6,22 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "danielmora-dbsrv-dev"
+            "value": "danielmora-dbsrv-uat"
         },
         "postgreSQLDatabaseName": {
-            "value": "danielmora-db-dev"
+            "value": "danielmora-db-uat"
         },
         "appServicePlanName": {
-            "value": "danielmora-asp-dev"
+            "value": "danielmora-asp-uat"
         },
         "appServiceAPIAppName": {
-            "value": "danielmora-be-dev"
+            "value": "danielmora-be-uat"
         },
         "appServiceAppName": {
-            "value": "danielmora-fe-dev"
+            "value": "danielmora-fe-uat"
         },
         "location": {
             "value": "North Europe"
         }
     }
-}
+  }
